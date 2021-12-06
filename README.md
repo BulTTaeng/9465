@@ -22,6 +22,7 @@ case1
 ![button](https://github.com/Choi-JaeHyeok-21500749/9465/blob/main/a.JPG)
 
 case2
+
 ![button](https://github.com/Choi-JaeHyeok-21500749/9465/blob/main/b.JPG)
 
 So keep comparing does two and get the max value in location n in the dp array will be the answer.
